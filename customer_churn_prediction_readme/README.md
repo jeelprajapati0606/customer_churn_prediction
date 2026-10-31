@@ -1002,20 +1002,9 @@ jupyter>=1.0
 
 ## 👨‍💻 Author
 
-<p align="center">
-  <a href="https://github.com/jeelprajapati0606"><img src="https://github.com/jeelprajapati0606.png" width="120" style="border-radius:50%" alt="avatar"></a><br>
-  <b>Jeel Prajapati</b> — Junior Data Scientist (exam persona) 👨‍💻<br>
-  <a href="https://github.com/jeelprajapati0606/customer_churn_prediction">🔗 GitHub Repository</a> ·
-  <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn">📊 Kaggle Dataset</a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️_at_Red_&_White_Skill_Education-E11D2E?style=for-the-badge" alt="Red & White Skill Education"><br>
-  <i>"Quality is our Motto — Practical Exam: Supervised Learning (Set B). Shaping skills to scale higher."</i><br><br>
-  ⭐ If this project helped you, please star the repo! ⭐
-</p>
+
 
 <p align="center">
   <a href="#top">⬆️ Back to top</a>
