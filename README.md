@@ -20,7 +20,7 @@
   <a href="https://raw.githubusercontent.com/jeelprajapati0606/customer_churn_prediction/main/Customer_Churn_Prediction/WA_Fn-UseC_-Telco-Customer-Churn.csv"><img src="https://img.shields.io/badge/📥_Download_CSV-181717?style=for-the-badge&logo=github&logoColor=white" alt="Download CSV"></a>
   <a href="https://github.com/jeelprajapati0606/customer_churn_prediction"><img src="https://img.shields.io/badge/📄_Project_Question-E11D2E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Project Question PDF"></a>
   <a href="https://github.com/jeelprajapati0606/customer_churn_prediction"><img src="https://img.shields.io/badge/🎓_Theory_Notes_PDF-B22222?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Theory PDF"></a>
-  <a href="https://github.com/jeelprajapati0606/customer_churn_prediction"><img src="https://img.shields.io/badge/🎬_Explanation_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Explanation Video"></a>
+  <a href="https://www.dropbox.com/scl/fi/xcix73m50hg3ab7bvac38/customer_churn.mp4?rlkey=z0tuzzwqecs12jtgsy93a4swr&st=ebu1pm7v&dl=0"><img src="https://img.shields.io/badge/🎬_Explanation_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Explanation Video"></a>
 </p>
 
 <p align="center">
